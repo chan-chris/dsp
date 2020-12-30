@@ -106,7 +106,14 @@ P(A|C) = 0.4545
 ### Q6. Bayesian &amp; Frequentist Comparison  
 How do frequentist and Bayesian statistics compare?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+```
+Admittedly, I have not done enough research to understand the nuances between the two philosophies.
+They seem to overlap in many ways but with subtle difference at the core. Bayes stats seems to begin with a formulated notion or opinion
+about what they think may be the probability of an event. These opinions are baked into the modeling of obtaining a probability.
+Frequentist on the other hand have a set approach to determine the truth vs. a notion. They use models to run simulations over using the data on hand to come up with an estimated probability.
+
+All in all it seems like a difference in the fundamental approach to analyzing information.
+```
 
 ---
 
