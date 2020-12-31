@@ -25,3 +25,5 @@ thinkplot.Config(xlabel="rand nums",ylabel="cdf")
 ![Ch 04 Table2](../../img/Ch04_table2.png)
 
 ### The line is straight which signifies a uniform distribution.
+
+## testing new line
